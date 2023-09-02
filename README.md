@@ -1,0 +1,2 @@
+- use composer  composer dump-autoload to generate to vendor folder
+- install wp crontol and register update_coin_data_event event
